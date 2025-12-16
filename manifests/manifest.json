@@ -1,0 +1,283 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://Nooor-hub.github.io/TMDRA/manifests/manifest.json",
+  "@type" : "sc:Manifest",
+  "label" : "[Click to edit label]",
+  "metadata" : [ ],
+  "description" : [ {
+    "@value" : "[Click to edit description]",
+    "@language" : "en"
+  } ],
+  "license" : "https://creativecommons.org/licenses/by/3.0/",
+  "attribution" : "[Click to edit attribution]",
+  "sequences" : [ {
+    "@id" : "http://1af62ce9-00e3-4a96-b229-98d1065c7361",
+    "@type" : "sc:Sequence",
+    "label" : [ {
+      "@value" : "Normal Sequence",
+      "@language" : "en"
+    } ],
+    "canvases" : [ {
+      "@id" : "http://32e46590-7fcb-4a69-a840-736eb013de18",
+      "@type" : "sc:Canvas",
+      "label" : "1",
+      "height" : 531,
+      "width" : 424,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://21dfa090-2ce7-4733-866d-133a52afe42b",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nooor-hub.github.io/TMDRA/images/1/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nooor-hub.github.io/TMDRA/images/1",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 531,
+          "width" : 424
+        },
+        "on" : "http://32e46590-7fcb-4a69-a840-736eb013de18"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://74b85e88-7b7a-4886-94ce-266930a6bab1",
+      "@type" : "sc:Canvas",
+      "label" : "2",
+      "height" : 603,
+      "width" : 425,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://20b736b2-9a68-4bde-8b7f-10d044f4b718",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nooor-hub.github.io/TMDRA/images/2/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nooor-hub.github.io/TMDRA/images/2",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 603,
+          "width" : 425
+        },
+        "on" : "http://74b85e88-7b7a-4886-94ce-266930a6bab1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://71bdd5a2-5da0-4c99-9216-1115e7caf8ea",
+      "@type" : "sc:Canvas",
+      "label" : "3",
+      "height" : 551,
+      "width" : 415,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://f4362358-f0a8-4017-97ac-7a5a65848a1c",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nooor-hub.github.io/TMDRA/images/3/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nooor-hub.github.io/TMDRA/images/3",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 551,
+          "width" : 415
+        },
+        "on" : "http://71bdd5a2-5da0-4c99-9216-1115e7caf8ea"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://f7bd12f6-b7b3-4102-8ffe-33c9d3dae1b7",
+      "@type" : "sc:Canvas",
+      "label" : "4",
+      "height" : 581,
+      "width" : 391,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://1e747b67-41aa-42b7-bc4c-4cb24a398b15",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nooor-hub.github.io/TMDRA/images/4/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nooor-hub.github.io/TMDRA/images/4",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 581,
+          "width" : 391
+        },
+        "on" : "http://f7bd12f6-b7b3-4102-8ffe-33c9d3dae1b7"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://5d8a3023-5e9f-443b-9352-ec344594ecb1",
+      "@type" : "sc:Canvas",
+      "label" : "5",
+      "height" : 584,
+      "width" : 419,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://4801aea6-133b-4740-8d4d-d9b8f885be14",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nooor-hub.github.io/TMDRA/images/5/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nooor-hub.github.io/TMDRA/images/5",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 584,
+          "width" : 419
+        },
+        "on" : "http://5d8a3023-5e9f-443b-9352-ec344594ecb1"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c97aaada-76ad-40ea-a954-fd6da9d3524a",
+      "@type" : "sc:Canvas",
+      "label" : "6",
+      "height" : 596,
+      "width" : 412,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://9d0ced52-19c2-4be0-93ee-95b7327c4bb5",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nooor-hub.github.io/TMDRA/images/6/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nooor-hub.github.io/TMDRA/images/6",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 596,
+          "width" : 412
+        },
+        "on" : "http://c97aaada-76ad-40ea-a954-fd6da9d3524a"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://10a70587-2efa-4330-aa80-2bbeb0ba9519",
+      "@type" : "sc:Canvas",
+      "label" : "7",
+      "height" : 615,
+      "width" : 428,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://110ea3a6-728d-4b99-acb7-11ffd551fef7",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nooor-hub.github.io/TMDRA/images/7/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nooor-hub.github.io/TMDRA/images/7",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 615,
+          "width" : 428
+        },
+        "on" : "http://10a70587-2efa-4330-aa80-2bbeb0ba9519"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://8f80e28b-0585-4c22-830e-d6969030fe6f",
+      "@type" : "sc:Canvas",
+      "label" : "8",
+      "height" : 590,
+      "width" : 424,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://31721a6f-8e40-4838-8f7c-d4c5cbedaccb",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nooor-hub.github.io/TMDRA/images/8/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nooor-hub.github.io/TMDRA/images/8",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 590,
+          "width" : 424
+        },
+        "on" : "http://8f80e28b-0585-4c22-830e-d6969030fe6f"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://69db98db-e648-4dc5-9d1a-6b13e79948b0",
+      "@type" : "sc:Canvas",
+      "label" : "9",
+      "height" : 616,
+      "width" : 427,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://61a449a4-7614-48e0-be96-2cec3b73ac7f",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nooor-hub.github.io/TMDRA/images/9/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nooor-hub.github.io/TMDRA/images/9",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 616,
+          "width" : 427
+        },
+        "on" : "http://69db98db-e648-4dc5-9d1a-6b13e79948b0"
+      } ],
+      "related" : ""
+    }, {
+      "@id" : "http://c104019a-cb98-4a02-b871-dd23f7952d0f",
+      "@type" : "sc:Canvas",
+      "label" : "10",
+      "height" : 585,
+      "width" : 428,
+      "images" : [ {
+        "@context" : "http://iiif.io/api/presentation/2/context.json",
+        "@id" : "http://711c728d-3cd4-46d7-99a5-b050f3740d58",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://nooor-hub.github.io/TMDRA/images/10/full/full/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://nooor-hub.github.io/TMDRA/images/10",
+            "profile" : "http://iiif.io/api/image/2/level0.json"
+          },
+          "height" : 585,
+          "width" : 428
+        },
+        "on" : "http://c104019a-cb98-4a02-b871-dd23f7952d0f"
+      } ],
+      "related" : ""
+    } ]
+  } ],
+  "structures" : [ ]
+}
