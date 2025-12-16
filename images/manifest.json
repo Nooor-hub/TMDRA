@@ -9,6 +9,330 @@
     },
     "items": [
         {
+            "id": "https://Nooor-hub.github.io/TMDRA/images/6/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "6"
+                ]
+            },
+            "height": 596,
+            "width": 412,
+            "items": [
+                {
+                    "id": "https://Nooor-hub.github.io/TMDRA/images/6/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nooor-hub.github.io/TMDRA/images/6/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nooor-hub.github.io/TMDRA/images/6/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 13,
+                                                "height": 19
+                                            },
+                                            {
+                                                "width": 26,
+                                                "height": 38
+                                            },
+                                            {
+                                                "width": 52,
+                                                "height": 75
+                                            },
+                                            {
+                                                "width": 103,
+                                                "height": 149
+                                            },
+                                            {
+                                                "width": 206,
+                                                "height": 298
+                                            },
+                                            {
+                                                "width": 412,
+                                                "height": 596
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 412,
+                                        "@id": "https://Nooor-hub.github.io/TMDRA/images/6",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 596,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nooor-hub.github.io/TMDRA/images/6/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Nooor-hub.github.io/TMDRA/images/5/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "5"
+                ]
+            },
+            "height": 584,
+            "width": 419,
+            "items": [
+                {
+                    "id": "https://Nooor-hub.github.io/TMDRA/images/5/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nooor-hub.github.io/TMDRA/images/5/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nooor-hub.github.io/TMDRA/images/5/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 14,
+                                                "height": 19
+                                            },
+                                            {
+                                                "width": 27,
+                                                "height": 37
+                                            },
+                                            {
+                                                "width": 53,
+                                                "height": 73
+                                            },
+                                            {
+                                                "width": 105,
+                                                "height": 146
+                                            },
+                                            {
+                                                "width": 210,
+                                                "height": 292
+                                            },
+                                            {
+                                                "width": 419,
+                                                "height": 584
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 419,
+                                        "@id": "https://Nooor-hub.github.io/TMDRA/images/5",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 584,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nooor-hub.github.io/TMDRA/images/5/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Nooor-hub.github.io/TMDRA/images/8/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "8"
+                ]
+            },
+            "height": 590,
+            "width": 424,
+            "items": [
+                {
+                    "id": "https://Nooor-hub.github.io/TMDRA/images/8/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nooor-hub.github.io/TMDRA/images/8/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nooor-hub.github.io/TMDRA/images/8/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 14,
+                                                "height": 19
+                                            },
+                                            {
+                                                "width": 27,
+                                                "height": 37
+                                            },
+                                            {
+                                                "width": 53,
+                                                "height": 74
+                                            },
+                                            {
+                                                "width": 106,
+                                                "height": 148
+                                            },
+                                            {
+                                                "width": 212,
+                                                "height": 295
+                                            },
+                                            {
+                                                "width": 424,
+                                                "height": 590
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 424,
+                                        "@id": "https://Nooor-hub.github.io/TMDRA/images/8",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 590,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nooor-hub.github.io/TMDRA/images/8/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "https://Nooor-hub.github.io/TMDRA/images/7/canvas/",
+            "type": "Canvas",
+            "label": {
+                "none": [
+                    "7"
+                ]
+            },
+            "height": 615,
+            "width": 428,
+            "items": [
+                {
+                    "id": "https://Nooor-hub.github.io/TMDRA/images/7/annotation/AnnoPage",
+                    "type": "AnnotationPage",
+                    "items": [
+                        {
+                            "id": "https://Nooor-hub.github.io/TMDRA/images/7/annotation/",
+                            "type": "Annotation",
+                            "motivation": "painting",
+                            "body": {
+                                "id": "https://Nooor-hub.github.io/TMDRA/images/7/full/full/0/default.jpg",
+                                "type": "Image",
+                                "service": [
+                                    {
+                                        "tiles": [
+                                            {
+                                                "scaleFactors": [
+                                                    32,
+                                                    16,
+                                                    8,
+                                                    4,
+                                                    2,
+                                                    1
+                                                ],
+                                                "width": 1024,
+                                                "height": 1024
+                                            }
+                                        ],
+                                        "protocol": "http://iiif.io/api/image",
+                                        "sizes": [
+                                            {
+                                                "width": 14,
+                                                "height": 20
+                                            },
+                                            {
+                                                "width": 27,
+                                                "height": 39
+                                            },
+                                            {
+                                                "width": 54,
+                                                "height": 77
+                                            },
+                                            {
+                                                "width": 107,
+                                                "height": 154
+                                            },
+                                            {
+                                                "width": 214,
+                                                "height": 308
+                                            },
+                                            {
+                                                "width": 428,
+                                                "height": 615
+                                            }
+                                        ],
+                                        "profile": "http://iiif.io/api/image/2/level0.json",
+                                        "width": 428,
+                                        "@id": "https://Nooor-hub.github.io/TMDRA/images/7",
+                                        "@context": "http://iiif.io/api/image/2/context.json",
+                                        "height": 615,
+                                        "@type": "ImageService2"
+                                    }
+                                ],
+                                "format": "image/jpeg"
+                            },
+                            "target": "https://Nooor-hub.github.io/TMDRA/images/7/canvas/"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
             "id": "https://Nooor-hub.github.io/TMDRA/images/1/canvas/",
             "type": "Canvas",
             "label": {
